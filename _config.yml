@@ -21,6 +21,7 @@ description: >
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://Shuland.github.io" # the base hostname & protocol for your site
 cover: "/assets/black.jpg"
+color:               '#4f86aa'
 logo: "/assets/logo.png"
 
 # Build settings
@@ -72,9 +73,9 @@ descriptions:
 social:
   - name: Twitter
     icon: twitter
-    username: TheBenCentra
-    url: https://twitter.com/TheBenCentra
-    desc: Follow me on Twitter
+    username: 
+    url: 
+    desc: 
     share: true
 
   - name: Facebook
@@ -86,17 +87,17 @@ social:
 
   - name: GitHub
     icon: github
-    username: bencentra
-    url: https://github.com/bencentra
+    username: ShuLand
+    url: https://github.com/Shuland/Shuland.github.io
     desc: Fork me on GitHub
     share: false
 
-  - name: LinkedIn
-    icon: linkedin
-    username: Ben Centra
-    url: https://www.linkedin.com/pub/ben-centra/47/769/60a
-    desc: Connect with me on LinkedIn
-    share: true
+  #- name: LinkedIn
+    #icon: linkedin
+    #username: Ben Centra
+    #url: https://www.linkedin.com/pub/ben-centra/47/769/60a
+    #desc: Connect with me on LinkedIn
+    #share: true
 
   - name: Google+
     icon: google-plus
