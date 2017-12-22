@@ -1,12 +1,10 @@
 ---
-layout:  post
-title:  pthread in visualstudio/windows
-subtitle:   pthread
-categories:  Language
-date:   2017-12-21 10:17 +0900
-tags:  c
+layout: post
+title:  "[C]pthread in visualstudio/windows"
+date:   2017-12-19 08:43:59
+author: Shuu
+categories: C_language
 ---
-
 # visualstudio/windows 에서 pthread 사용하기 
 
 ## pthread를 visualstudio/windows 에서 사용하려 하였지만 되지않았다.

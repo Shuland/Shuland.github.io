@@ -1,9 +1,8 @@
 ---
-layout:  post
-title: Bluetooth
-subtitle:   Bluetooth
-categories:  RF
-tags:  rf
+layout: post
+title:  "[RF]Bluetooth"
+date:   2017-12-19 08:43:59
+author: Shuu
+categories: RF
 ---
-
 # Bluetooth
