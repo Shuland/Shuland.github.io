@@ -28,4 +28,8 @@ tags: TETRA
  - scrambling/de-scrambling
  
  ## Layer 2
+	**Medium Access Control (MAC) **
+	
+	- channel coding
+	- 
  
