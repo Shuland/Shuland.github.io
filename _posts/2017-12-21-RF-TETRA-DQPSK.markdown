@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[RF]TETRA modulation (pi/4 DQPSK)"
+title:  "[TETRA]TETRA modulation (pi/4 DQPSK)"
 date:   2017-12-19 08:43:59
 author: Shuu
 categories: RF
